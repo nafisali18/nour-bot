@@ -42,9 +42,9 @@ global.thumb2 = readFileSync('./me2.jpeg')
 global.multiplier = 69 // The higher, The harder levelup
 
 //Text here
-global.me = 'NOUR BOT - 2023'
-global.bott = 'Nour md'
-global.nomorown = '212605784394'
+global.me = 'X 9- 2023'
+global.bott = 'X 9'
+global.nomorown = '212720635640'
 // owner put this creator.js
 global.str = '-------------'
 global.l = '「'
